@@ -1,6 +1,18 @@
-- Olá me chamo Fillipi Novais, Estudo desenvolvimento front-end desde Janeiro de 2021, já criei projetos pessoais como blog de notícias e site de estética automotiva. Sempre me preocupando com a semântica e a estilização do meu código para garantir que minhas interfaces sejam o mais intuitivas e atrativas possíveis.
--Atualmente estou me aprofundando nas linguagens JavaScript, ES6+, Vue.Js, Node.Js, React, PHP7 e MySql.
--Meus projetos são todos pessoais para finalidades de estudo/prática e criação de portifólio.
+### Olá! :wave: <br>
+## Me chamo Fillipi Novais :grin: <br>
+ Sou estudande de Análise e Desenvolvimento de Sistemas e Aspirante a Desenvolvedor Front-End. :man_technologist: <br>
+ Gosto de resolver problemas e aprender sobre outras linguagens. :rocket: <br>
+
+## Skills: <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="github" width="40" height="40" style="max-width:100%;"></img>
+## 
+<a href="https://www.linkedin.com/in/fillipi-pinto-novais-b690698b/" target="_blank">
+  <img aligh="center" alt="fillipi-linkedin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+</a>
+
 
 
 
