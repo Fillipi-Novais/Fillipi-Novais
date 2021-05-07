@@ -1,6 +1,6 @@
 ### Olá! :wave: <br>
 ## Me chamo Fillipi Novais :grin: <br>
- Sou estudande de Análise e Desenvolvimento de Sistemas e Aspirante a Desenvolvedor Front-End. :man_technologist: <br>
+ Sou estudande de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-End. :man_technologist: <br>
  Gosto de resolver problemas e aprender sobre outras linguagens. :rocket: <br>
 
 ## Skills: <br>
