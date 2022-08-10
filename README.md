@@ -1,6 +1,6 @@
 ### Olá! :wave: <br>
 ## Me chamo Fillipi Novais :grin: <br>
-Sou Desenvolvedor Fullstack PHP. :man_technologist: <br>
+Sou Desenvolvedor Fullstack Laravel/Vue.js. :man_technologist: <br>
 <br>
 ## Skills: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="github" width="50" height="50" style="max-width:100%;"></img>
